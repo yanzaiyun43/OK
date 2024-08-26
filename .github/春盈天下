@@ -1,1 +1,726 @@
-668851B2EC6784F69ABB59FEC0E635DAD8B8BCEE95349F312C44825032916573526CECE7DCB5A4FFBE5CA058B004E9064F60B408252C6AA4B46C11E4A0A66E6EB8BC9EE78CFC492EB68DD2CF207BF0ECC004E241B139B0C548E490B9B8418EEF4226C8ACCD2616E17DBE7ECE133BE6A922CFA711829A3C4B75C970BDFD2CE98A265564D7872B1AE9CA5D4E0CC3294781FB52BF0A565AA379C770E6A153791973D34FC55BEB8DD659A663C625BA28FC518F58E06E323CE108B02C06855F09A88A87D79A31E36DB7B9E453E00CDF826F6367F72F0375BC6A3D7776739147155E492A5233DC1F26EA81C5260100B10133E6F1B7F2D99404FA89C4C264F71763AB536724695C9E8232E1E8A09A7A743AF317246D8C6E121BFA5B0D77F3207DC0BAD71AAB1B7D3E68B94B68FBE60430A3C4201DB53440E13B4F41F4BB4C3424C669496F915E8479FCAB6231C62B019BBE5D2439B52842655531FCAE280E08D184BF0E060210BABA78C85ED56498EA2A849A682230DD23CB9CF7EDEDB2982EC5C2FFA10B4A2B0D30902A42B8C2AD58FC5D1E65A03F9928B7F0EB9A5B3EE3838D3B2B8A8F3F31BF5C67FD9982C5BE696ECFB6893254D76E1B7D2A138DCC88F43B38D06C7F707A86FE56F24F77568510645C874803A00314DAB203DD23D6AD703C082F63D8BE45C8F24F0795AAF0375D87F8294A1FFEC5C99F8D40BDA8B837F98E89946DBA3AC51391023CF935DF1D679BB793DCD06A91CA4CCE7C8C58E32C084DD487DA97AEF763E9FE9568B30ADFB2CD1EA473B9EA28D92E366B835250FA3434DD0934DEE81652A984B0727F762E0C289301DCD3AB1C3A6D637D088C594A0B8EC21301576D560F64B27F455AE01DF6C6CC82259A218976A7BCA66E006D57DD81FAD10BA9C05B747827ACD46A51786CB6648CAB3120181DAD9165E7A1772AA54B125982F2EF85A5E3B23508E6F4C6EF9E4C367E8525CD9B302204DF6A6DD0B3B88DCB3B5A6486154059150DF45D86C256F99AF1AFFE81500BC84E75D5DA4F8671D48892E03AD55C252AFD66D27D1380B7F1805656734AE50DE504644151FECF86FA2D461197D0DA834ED3607F4CF69E5114DD6E3135A190950B95B008AE7BABBA956A85DBC6B783B2BECE98FDE147834FA227D610547114FE3A4FCD097182A084F6AFAD4BA047C79761A0B207626CD7602F573EAF0F2249E3769F418A14AB150B630E75AAA3865731BCC49D7B626D4C81A3D6E863B912D3ADE2C31523360C87B3B92B6526AFBF761D74434DD5A72E58D2B46D96E2F76B2E418EF0D4EF69BC9453BC06CBF970D450BD30AE257249EF452ABA7C3B4A937B163E055623BC9F04014C81A77370AC408B549CBCEC6CC6B5F5393AEB6A1793EBF7B3476C9D8CF8B84ED84ED2E7C6D7F16BFB851943562C6C592A425D876360CD53F6C4758E2815603B23D17268F6D7E98C080EF24D71A19A2090FBFA516682F02B1BB2FD0FFAC8DAB9D05B973AAE49DC47F208C74B15CC9A6B6BBFBDAB317665142488F24D277A294D9FF22FA3AF7842B814BA061695B3696328EF32466D96C6C89B674C7CD2A63BF4681C426D6B9D487DC87705BFAB977C3B903C6C31D40D5B03747FAD7812B2082FB934CC9917B02BBE5654CD247FF77D1D5DBF6D89E0C65BC791F34AD05EE81933878452204C48946D31C6AB38ACC7CCF3B818C01F0174EE0CD7B0A13445C48FF912B940277553BDD5C19263C86FC64654CF82A9CDF67BEEE8C82C238824A4DD4154A03E272F31B2BC1EB429ABA3609CD29A900D4310E63DF9B1AB3B1ACDD466B88CCDC349BD83CD8D3120A28AD602EA7EA41FFC8928E86E466098F0094C43D6C543D9E8C5C71A2ACE707CD04DAA0603558C4B9E995BB521BDA2073AB104E05F97ED2A0A98662BC9894886D71DA555D90BDAA4E68B37FE1170575AFE7D0A2BF3EF990E467B4D6D22E3C5A1315332020A5C50E233DDFB505C0E3299F9B0900E2673FB47F677AF9838DAFDEC8BA6777BBD5474CE30A84AB15B2AF0554D13C01FCDC1CF29FC56CE4E9B4F9FAD7E4E26404B12C1658C7E03498EBC276FDFE01EE9D0751F6FA83D7AE14BE75C6DB0EEB79B2EDC464418F91C827493026D3224F27FC8E369661EDC28C14C84ABD032B42F4CE0C4FCA0B7FCBF15EF863E2912A002C2DD444A8DD7B1F54A856836F201D0D68AA365A8AB8D9A638391C8555D66974D9C1BF694DAA09C6B201987A769EEFF93D2E8DB5E72BD4BA99A16B1B657307284947530E8FD5E1FC3DD34FB317C558C74848C6467F1816C7F939BD90136FD82C762852DAE481A71CB63BB62ECDDC5808419F7150B2CFB293ABC9949069060CB40866DF21E2F58D7CD27D7443089D807DCE64369F7534C0F75DF63F6ECA21F370DAB1E940FAAF8DBF9E21E5DB2866AA86BFDE04C62A8B849C3A0A6D645575759F454BD79766CA11BE2112A728E13194C5D2F4F11EFC663C5E36EDCCCF1B49CE8F05093A034D28DEF4E2B1F3F01779A3CE7104D258991BC2F3C6E95CC74CAAF9D5DC7347484A2FD5831FF9E0749853565BF7EB61A42845EE21D3D331C0324C502629C69105410A98BC0C88A83CB17AF412F3F00A7AC470D886A6EE78DA2C2F3BA7322737066811968606019BB7751C861BB569C44CC8C18429F1EF87C7109AEAB314C0E179701222CD3EFC65BFAA5BBF5E3C36FAD4BC0408053960268D0DD4C9FB701219414B8887484013ADA3D42D48D7041C3443B2AC574799D827E7CD44CAD3151434B6EF1DE402CD332F4168255A19D1792DE31FC7C6E405BE7B9049061AC8100842E2881ADB1B08D19043D31D7908972F3663C20E784414BB22B9270C04B44788C29BBDF5A5A2B4976A930FD328A98FFC60C395A6B551F77A2ADA586D7A4A2AB29E4091F1A493288F7F1913F7FBA89D9345CAC99ACEA7E99F1795E6EB8249B436CE6A8DD050CB0D194C3F2709725B41654C2D9E10B74EDAB9D162803ACE8D130E8CAF6C698B7396E0995E87893E5C3CB2FAC0CF3A458F1033176F8249803CFAB3A96C0FE96D6AE54C6CD1F757A95DAFE63FE6A15C03D13FA0407D07E794F177B638767DB027E6CAE34F300F8925236AF328FC16890B2D3C8F9A2012D229CD1E3C84AC0EF44B61B0F5DAE13B674DB1A1367105549FA8CC2E32C9F99196F0A23ABEFF197C968601CCD57A9D697763B087903DD8A2D9A576ADA19AED6A5BEDBB9C5D2884991CA48AE315C2F3ED4299877C0939F678808885FDE2E51341E7A593AD075D5B6E5962832603EAE56A1DBE0A0E02676AAADF6094E30D0B0FD5DD4BA1B7CA4801DC4B85909180A6003BB42C6337EA82BA60690468CA6E8E074BBF3207083BAF8EA90E62B7DD5AE8B1DB523AB32E8D37431EAF75A2F6D4B175BD952DA2FAD30CBFBBF0646799619C43E96003D136D06DCFA5146FD27DE0879469300FCAD881189177C70D81187BE44AF4951685B17C99CE1B11106AA09F9AA22E4EDC9EB27974D746F0E7EDCBFC2B4779628337671CB9B2B1F3147916868B6715A54DF8E26542E49FEA87CCD8B766062B5A73E2DCA626BFF37CC4CCB5DBC17DD439B314D51BB56FC1E21873071642F215C1141755E7EADA4965BBD89A5BA9D6256A0E03C77806A98FDC63282EB27DA2697C8139B1C6B888FBB2C1D13C4CC69A8A524631D2793351D1ADBF8FA46AF98BC6FA03FE7707DB1EFEC271222C528C25A43C533E110599762691025472737BF6EE860C8B99B407677C51CAAA1808FD57E78370E6AFD0CCFE9E47A0940A78FE602AA6DC208405A963CAC7F51953115B639E7C9D9A82A9C5C1CAA9FC7B528F90E95432B19C2AFC8CAF3F2A46DF0DA7BA1632E611CC37610AA656A70E7C107FAB04103AA5EC331FD3B6418A587A59CC2FBAFF78920A325BB1EE58FD902F60D143B83046FC40B957D7F97381FBA629F8F704ED6AA19B0E85AA4AF4B84A8BDE807F195EDAAAA8351026ACD96E59C18E071194C2923616EFB7E4B76B4D4540AD002FF012F61C7E7762D1F4FB4599139770987C8F4D7759322A3030E62092BEA0F22A57B7FF3997D14E5347F7BF8B7D55B341E513743583810A54517231EBFB295EE04C99089E511DB4E2AB9FCE95680BC0BE3CCDBF0BD230E03C85A4D83A28F86BD509550635B7D8705DEB034DAAD632A0031888DFD6333370ED405FF50483288854A20CA2114006518A693F24020DDC036B04FA4D4B749E0B0D45AD8BC847A8D81FC39B070A0207D9FD0F90C5A7933D0ABEABA56D765ADA879BB51D382088DF1EC2742926D02486E646372186E5F411F47A804BD24282001C125BB86ACBBB938D0B18D072D62DDE1764E0BB573636FEEFFBF4F93CB2A0CEDD0CC18EA81721C294571467912C8A16276312F14A789461FB44BB93941F8CE0E8BFE839FE920E0E57B05FEA196A629EB82417ABE7B6D6C53F4C7A7F0253AF4C6C9D079BDE2984F11080FBA24D6283A2F6EDF25AB7CA31D953EE818393EAAF57ED3D01DBDAA7F134084D0894D6BADC3D4750B139B222E83630BD00D9E9993393431C0989863AFAE5808CC8066D1C86A6B3382E5D576599E1587C278A527DF848FA1234C33DA6CADCA2FDD7743E4C4CA9BC3B0D9D80FE110558B8AD3D14B93217F062B39D710081675B85BCEBA2ED10EEF726B4A34A16BB4AF8A6C352D30DF620FE192966114E6759CBB03DFF3423E0F563F9302ADC00F46423B01223593DABFE9E1410CE15CB4834558079DF62A4403AEBDC95D37BD7132155CBC177B4C402AFA4CCD68B6F08A0018938C36F29E7CB8CF987D9175E5A8F79A77647660E1320B7F71856F6D9C81E9107A57ADD3D460C89C1A4B4348B74E72A98427C26BAD7BB31860ACC563D54A87C2CDED976433AC48E8937DB07EBBF594E1C1C7EB6415BA6C455C2CA76EC81037E7F9FAC6E83E715B999A56110C3C8A73795C0A47BC8737467839CEBBD04EC274434D1E577D8870C860BE5E5BBFDF09246A7C7B95AC69EF2A57384E2EBEE58F6E3A9E4F21C5E5C4C79EB056A0E9F5BBBC3CB47831F2BC1570E90448E74DF3BD69457769FBD539DF1997C423C79E4DAC3479DF958491B76B02FE5FAE6D5705A597A629DAC3603C0D0AC989229C988601C91A7EC47032C1B2FF38B86F23CA835A02F040E10ECD0D45F6596E2313FB99D19F33C6AAB970C2715B82A7F4C107341FCAE2AF936ADDEC0FD6074D3E21689F7F8763A762F6E831323EF70E487EF42022A728564F469DCDB302AD32326897878F4CE5A0114E281714A8CFF7AC85487951535FC798C6515E628F4E812922748170A33D5730369D7F8DAAAB55F541EC9C10058FD475CFD1AA64EEA493B6C47D1E07D546EA06FE0BFF362CA635E37719B979B279E09BB5336780439E4F581B5362C40479F13DD8729A7B8DC136A9EC59C7177D7A8F3E418F1618D93237D6DE6FBD7BECCF78ACED48536327CFEDD64FCF2AECC981EAF0BAF53F7C2B6226601FBB811DDECF4EBCF726EE65224D8931D01B8779910E7F82D9284346F8E7A378CADBC237A9798C352E62252608AA3BD3692AA45B09D315B51602D2632AD7EC315ACA7AE55B30908CA5FD5FDA560567B252723FC5F89B3405633ABB126C8A8FBF703AF3AAB946C04E882719AE34477966B5FDD047C9AC9B6A8164D0B00C486EAF9967B9713AA089EBC5B11662B08053285AACB06976D06529DEF8AA7BD0F965E64F048C54A288DD97C4455B1E33D431F27A25B8F807745A8E0368001C71F8C79E70D7DD29ED08A5BBAFE9A48FE57CF942C7F1BC099A8470BBDD2A04B4F7CBBC74469E024CC5703D0A3A13B0844A25AB3162981A51764F3E562BA815A601270D87967F53E13A06ACB1A4B0B269D8097911AC2CAE4974CD31403D5D74FEDD02DC024C07E0DD6531E436CBDA07E3670DEAE3174D81C77F6805FE7AF97970EF0558674BDDFD334445E7E0AD5BA9B3BE80188A97962F2DE8DF69329469812554B1BC28035DE44DC6A0E79379D147141EB7CFF243FA72835025D54C2251DA612A8F9112C1EACD1567C788C6020792668BA461E9BEEB138AA06A3D8A9A2B5BE70160B0D3AC1024B2E3ABAB7CB4B58A96F17E280D0E93990F27807E16B7B6C224EEAD78276DEB4738EC41231F75569270023474E38A293C777DCDD3707BCA3589B49E0A17E6CFF9260A3BEA511354F5A373E209D83123D1566402091B6104C8AA2FDB4F6F6451A74F989D0EE1AD12A0732EAF1E1AB098988F27308DBBAD323CB58894F8B91D93DBE0F77F4ED6E582EF0D70485CD8F051DAD8C61C4EEF60CA619957EF2C9024EE322272FE805CDCBB25267F82065E5167DABB9C0DB73E43A16B5D93C3883BA991B8252B22624C76B45A6C5ADC4C62F772E21D59BB346A6F9C0D2A80858804A59BC6B5CED5D3B5EDC426BEDAE546CB2A5D30BA0CB7464B595A7D370F845938B8F605F0DBC0218C5BD6DEF0FA67A6F900C3B5EBC6ED51EE941923DA5A1FA6F140D3B5D3C64E518900D0F19DCB10EBC6E739A91607A40235EADB324D217025B7573B73B517B94A0F1975CFCA4991113FF81A00A72DA86D633DAF372B309633F98D6CF60D4A0F8362D61168F6266FFEA52A2A9BF798CA8E803681388BC122E6A1EDC40389CF2F075E49AFB18B7DED271771945A96465602F4F27A76ED2DA91BCC859BD08CEF9B366453492F9AD32963FD990BDCBA2E461994CDDB9932F4C8E2178C806EFD0FA13C3C98B7C3C4030B2ECD36AE8250DA410F0A8291F32BA2EA03ADE752758C5B135E43C24E96E7C685971338354288F4A4EE269EFB7F305B00600907E85DB228C6BD5A80977A2F1B74BE83E7E08A4E0A96CE157D94B0CE644FBCE91F7AC8700EA9C068A9A0DB33CAC0A5314EA96E492910D97D1287FB78353E3FDFE98FBA46D10F454994F83B67698E6353A4B803EC858E7BF3050C67FE504EFC4209BB7E5AEC5419BA59F47772C63CCD8E75AF577D8C824935DD8BF2C0DD3F4FEEEA01C2057B05D6CF979E939D72F77866F254AC8986A079AC18B3AA446BF722F85FC6888930C3DEC05F1FEFF08555C5AD47378C185020BFF211FCE712F2DCEDFB1F019A059AC3477B1D2FAD2C883C66378ED20BC7D37ACE9294E7A40098F5671E86E134E17D2EDD5250179D116F1DDC852CF1FBC878B73E0BDAAD71155C9358BE1D98391C3C081B34684485E8A938DCFCE3635A51A0696355CCE2C47C9949CAC79C9D18FDA1E160280D5D37ABCF8A19544AF70F0ADCDC6291FE6EF889648773CFAA8A96BA4FD71E7A5BF826630B100BED26678B845F6BBEBC54EE75C006E93E9E4AA0837A1516E500F582938B52D5C372E5245DC24F5631DB41240727EBAF454D2DE2F9C91FB521A4A9D20C9CCBA154329F7472744CE311A3662C0DA2D0370AA6749337CECF740EFFA4CDAEE3E741FD817D40FCDD42BB80E90FD3B792E5BCFD6529F6806A9632E4C11D4362520AF5525F16CE4D564CB32F13E340D9DBF8413B4DD4F70ADB5FA9DA766997C13285E1493253C211CDDC838156E602576BA265F0C713B6262A0F8CA8D8225352F2D46CA103E8815A280E8C54D8221FEFB861D0A5597B64D54060E87B47A535E8C8DF997D94ED6AD609DFC6663B740FB5BDF7E94DDCD02793F87A687F345533EFCA7BB93ED6B60498FA02F029220F9EFE686DA99CF07578DF9C40E7AF9AC0C341A54753AE9B67139E9994D9BB5CE6977F997D043456234DD4D030BB76B729031EF56521DFE6FB9D84DFA5FBBA356DA145964EEC5AF892E23BB29C273D1013D685F1F9BA794764A272D96AA64EAADC42C85C5B3AFC977F7A8F20482ECFDC2E3DFE50BC6BDD0BD6F2E05D92D41C3FD99982AAE738F73191710ADAF2654D435516EFA5D7A8E7963AFAF3A788A20C7EBB48C4D26004E93C9088DC84D8B8
+//所有资源均来自于网络各路大神无私分享.如有侵权.请联系删除。<所有内容仅供测试学习使用，请勿用于违法用途>
+//以下资源不能保证内容的合法性、准确性、完整性和有效性，请根据情况自行判断。
+//仅用于测试和学习研究，禁止用于商业用途，不得将其用于违反国家、地区、组织等的法律法规或相关规定的其他用途。
+//使用任何第三方硬件、软件、所造成的一切后果由使用的个人或组织承担，与本文内容无关。
+//所有直接或间接使用本内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本文内容。
+//所有基于本内容的源代码，进行的任何修改，为其他个人或组织的自发行为，与本内容没有任何直接或间接的关系，所造成的一切后果亦与本内容和本管理者无关。
+//本管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、转载、发布、修改了本文内容，则视为您已接受此免责声明。否则后果自负。
+//本接口无公众号、无盈利、无引流、免费分享给小白测试和学习使用，请勿轻信他人，谨防上当受骗。<请勿相信视频中广告>.
+
+{
+"spider": "https://jihulab.com/su7/4k/-/raw/master/jar/Yoursmile.jar;md5;5c504d54e0e59b5fecdde9213349f5c1",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1723462510172/fan.txt;md5;80004bdf8ea71093c980aa89a7d4e3d9",//皇
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716971833099/fan.txt;md5;e5331c586bf5835734be13338cecf00d",//演唱会
+"lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93ZHMuZWNzeHMuY29tLzIzMDg2NC5qc29u"]}]}],
+//===========================================================================
+"sites":[
+       {
+      "key": "drpy_js_豆瓣",
+      "name": "🌺【春盈天下】💑（👉春盈天下5.0关闭,新版6.0地址在上面.请及时更新！）💑",
+      "type": 3,
+      "api": "https://jihulab.com/su7/4k/-/raw/master/lab/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://jihulab.com/su7/4k/-/raw/master/js/douban.js"
+    },
+
+//====================================================================
+
+    {
+      "key": "农民影视",
+      "name": "农民 | 影视",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+ {"key": "火狐资源", "name": "火狐 | 影院", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫",  "战争片", "动作片", "科幻片", "纪录片", "爱情片", "喜剧片", "灾难片", "悬疑片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]},
+		{
+			"key": "cjzy_360资源",
+			"name": "三六 | 影院",
+			"type": 1,
+			"api": "https://360zy.com/api.php/provide/vod",
+			"playurl": "json:https://jx.behds.cn/qcb.php?url=",
+			"categories": [
+				"国产剧",
+				"战争片",
+                                "恐怖片",
+				"国产动漫",
+				"香港剧",
+				"台湾剧",
+				"欧美剧",
+				"日韩动漫",
+				"NBA",
+				"短片",
+				"西部片",
+				"综艺片",
+				"动漫片",
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"惊悚片",
+				"悬疑片",
+				"犯罪片",
+				"剧情片",
+				"家庭篇",
+				"记录片",
+				"历史片",
+				"动漫片",
+				"大陆综艺",
+				"港台综艺"
+			]
+		},
+    {
+      "key": "678",
+      "name": "678 | 影院",
+      "type": 1,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "http://23.224.49.51:60/api.php?key=554433811&id=id99",
+      "playUrl": "json:http://23.224.49.51:60/json.php/?key=554433811&url="
+    },
+   {
+      "key": "drpy_js_69美剧",
+      "name": "美剧 | 699",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/69美剧.js"
+    },
+     {
+      "key": "贱贱",
+      "name": "贱贱 | P2P",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+    },
+    {
+      "key": "新6V",
+      "name": "X6V | 磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
+    },
+        {
+      "key": "随意",
+      "name": "影视 | 随意",
+      "type": 1,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "http://23.224.49.51:60/api.php?key=554433811&id=id10",
+      "playUrl": "json:http://23.224.49.51:60/json.php/?key=554433811&url="
+    },
+        {
+      "key": "总线3",
+      "name": "影视 | 红牛",
+      "type": 1,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "http://23.224.49.51:60/api.php?key=554433811&id=id3",
+      "playUrl": "json:http://23.224.49.51:60/json.php/?key=554433811&url="
+    },
+        {
+      "key": "总线7",
+      "name": "影视 | 量子",
+      "type": 1,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "http://23.224.49.51:60/api.php?key=554433811&id=id7",
+      "playUrl": "json:http://23.224.49.51:60/json.php/?key=554433811&url="
+    },
+     {
+      "key": "drpy_js_小狗影院",
+      "name": "影院 | 小狗",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/小狗影院.js"
+    },
+//===============下测试1==============================================
+{"key": "厂长","name": "厂长 | 影院","type": 3,"api": "csp_NewCz","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://czzy.top/"},
+{"key": "优质资源","name": "优质 | 影院","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php","searchable": 1,"quickSearch": 1,
+"playurl": "https://vip.zykbf.com/?url=","categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","台湾片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","福利","纪录片","动画片","海外剧","伦理片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","搞笑","音乐","影视","汽车","短剧大全"]},
+{"key":"原创","name":"原创 | 影院","type":3,"api":"csp_YCyz","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
+{"key":"苹果","name":"苹果 | 影院","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"ua": "okhttp/3.15","quickSearch":1,"changeable":1},
+{"key": "索尼资源","name": "索尼 | 影院","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","searchable": 1,"quickSearch": 1,"ua": "okhttp/3.15","filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧",,"动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]},
+       {
+      "key": "360",
+      "name": "360 | 秒播",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
+      "categories": [
+        "爽文短剧",
+        "国产剧",
+        "国产动漫",
+        "动画电影",
+        "网络电影",
+        "动作片",
+        "喜剧片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "国产综艺"
+      ]
+    },
+   {
+            "key": "cjzy_360资源",
+            "name": "🧭360 | 资源",
+            "type": 1,
+            "api": "https://360zy.com/api.php/provide/vod",
+            "playUrl": "",
+            "categories": [
+                "战争片",
+                "恐怖片",
+                "惊悚片",
+                "悬疑片",
+                "国产剧",
+                "国产动漫",
+                "香港剧",
+                "台湾剧",
+                "欧美剧",
+                "日韩动漫",
+                "NBA",
+                "短片",
+                "西部片",
+                "综艺片",
+                "动漫片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "犯罪片",
+                "剧情片",
+                "家庭篇",
+                "记录片",
+                "历史片",
+                "动漫片",
+                "大陆综艺",
+                "港台综艺"
+            ]
+        },
+    {
+      "key": "高清资源网",
+      "name": "自营 | 高清",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories": [
+        "动作片",
+        "国产剧",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "欧美剧",
+        "日本剧",
+        "泰国剧",
+        "韩国剧",
+        "台湾剧",
+        "香港剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫"
+      ]
+    },
+         {
+      "key": "精粹-量子",
+      "name": "精粹 | 影院",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1 ,"categories": ["短剧","动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","爱情片","战争片","纪录片","动画电影","大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","足球","篮球","网球","斯诺克"]},
+
+		{
+			"key": "量子资源",
+			"name": "量子 | 资源",
+			"type": 1,
+			"api": "http://cj.lziapi.com/api.php/provide/vod/",
+			"playurl": "json:https://jx.behds.cn/qcb.php?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"categories": [
+				"国产剧",
+				"国产动漫",
+				"泰国剧",
+				"台湾剧",
+				"香港剧",
+				"欧美剧",
+				"韩国剧",
+				"日本剧",
+				"动漫",
+				"体育",
+				"剧情片",
+				"动作片",
+				"爱情片",
+				"喜剧片"
+			]
+		},
+    {
+      "key": "量子资源",
+      "name": "量子 | 影院",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+    {
+      "key": "csp_非凡资源",
+      "name": "非凡 | 影院",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+   {
+      "key": "csp_xml_红牛",
+      "name": "红牛 | 影院",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories": [
+        "动作片",
+        "国产剧",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "动漫电影",
+        "欧美剧",
+        "犯罪片",
+        "港澳剧",
+        "韩剧",
+        "泰剧",
+        "台湾剧",
+        "日剧",
+        "海外剧",
+        "其他片",
+        "悬疑片",
+        "奇幻片",
+        "动画片",
+        "体育赛事",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "cjzy_暴风资源",
+      "name": "暴风 | 影院",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "categories": [
+        "动作片",
+        "国产剧",
+        "科幻片",
+        "喜剧片",
+        "战争片",
+        "国产动漫",
+        "大陆综艺",
+        "港台综艺",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "日本动漫",
+        "日本综艺",
+        "综艺频道"
+      ]
+    },
+    {
+      "key": "卧龙资源",
+      "name": "卧龙 | 影院",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "恐怖片",
+        "动作片"
+      ]
+    },
+    {
+      "key": "快车资源",
+      "name": "快车 | 影院",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "categories": [
+        "国产剧",
+        "战争片",
+        "动作片",
+        "香港剧"
+      ]
+    },
+    {
+      "key": "光速资源",
+      "name": "光速 | 影院",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "categories": [
+        "大陆剧",
+        "港澳剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+    {
+      "key": "闪电资源",
+      "name": "霹雳 | 影院",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/"
+    },
+//===============上测试1==============================================
+//==================下面备用======================================
+  {
+      "key": "明日影院",
+      "name": "推荐 | 明日",
+      "type": 3,
+      "api": "csp_WexMingriys",
+      "jar": "https://gitee.com/hssdy/mmys/raw/master/jar/miaobomingri.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "e173267b0d7e1f1a1189c22c3bb7b556",
+      "name": "备用 | 淘片",
+      "type": 0,
+      "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"
+    },
+    {
+      "key": "Dm84",
+      "name": "巴士 | 动漫",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "drpy_js_爱弹幕",
+      "name": "动漫 | 弹幕 ",
+      "type": 3,
+       "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/爱弹幕.js"
+    },    
+//==================上面备用=======================================  
+//==================演唱会=======================================  
+ {
+      "key": "Biliych",
+      "name": "🅱繁华┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"
+    },
+
+  {
+      "key": "MTV",
+      "name": "🎧繁华┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+    },
+//==================演唱会=======================================  
+    {
+      "key": "MTV",
+      "name": "明星 | MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+    },
+    {
+      "key": "drpy_js_310直播",
+      "name": "体育 | 310 ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/310直播.js"
+    }, 
+    {
+      "key": "drpy_js_JRKAN直播",
+      "name": "体育 | 直播 ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JRKAN直播.js"
+    },		
+{"key":"企鹅体育xp","name":"企鹅 | 体育","type": 3,"api":"csp_XPath","style":{"type": "list"},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
+    {
+      "key": "csp_FirstAid",
+      "name": "🚑┃急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "gridview": "0-0-4.1"
+    },
+    {
+      "key": "儿童",
+      "name": "📚┃儿童┃启蒙",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
+    },
+    {
+      "key": "少儿",
+      "name": "📚┃少儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
+    },
+    {
+      "key": "小学",
+      "name": "📚┃小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"
+    },
+    {
+      "key": "初中",
+      "name": "📚┃初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"
+    },
+    {
+      "key": "高中",
+      "name": "📚┃高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
+    },
+        {
+            "key": "drpy_js_榜单荐片4",
+            "name": "请勿相信视频中广告",
+            "type": 3,
+            "api": "https://gitee.com/ouhaibo/ou/raw/master/js/apiv71drpy2.min.js",
+            "ext": "https://gitee.com/ouhaibo/ou/raw/master/js/drpy.js"
+        },
+		        {
+            "key": "空白",
+            "name": "全部结束",
+            "type": 3,
+            "api": "空白",
+            "ext": "空白"
+        }],
+//=========解析嗅探====================================================
+"parses":[
+    {
+      "name": "春盈天下",
+      "type": 1,
+      "url": "http://23.224.49.51:60/json.php/?key=554433811&url="},
+         {
+            "name": "春盈1",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+{"name":"春盈2","type":0,"url":"https://www.ckplayer.vip/jiexi/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒
+
+果","imgo","rx","ltnb","bilibili","1905","xigua"]}}, 
+{"name":"春盈3","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒
+
+果","imgo","rx","ltnb","bilibili","1905","xigua"]}}, 
+{
+            "name": "️春盈绣探",
+            "type": 0,
+            "url": "https://www.pangujiexi.com/pangu/?url="
+        },     
+
+{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩
+
+哔哩","哔哩"]}},
+{"name": "8090嗅探","type": 0,"url": "https://www.8090g.cn/jiexi/?url="}, 
+{"name":"m3u8嗅探","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优
+酷","mgtv","imgo","芒果"]}}, 
+
+{"name":"大厂嗅探","type":0,"url":"http://www.wpsseo.cn/jiexi/?jx="}],
+
+//=========直播=================================
+  "lives": [
+    {
+           "name": "💑春盈天下💑",
+      "type": 0,
+      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/cytx/raw/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8Bds60.css?ref=master",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
+     {
+           "name": "转播IPV6-1",
+      "type": 0,
+      "url": "https://m3u.ibert.me/txt/y_g.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
+    {
+           "name": "转播IPV6-2",
+      "type": 0,
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
+    {
+      "name": "",
+      "type": 0,
+      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/cytx/raw/%E5%9B%BA%E5%AE%9A%E7%94%B5%E8%A7%86%E5%8E%9F%E7%89%88fl50%E5%8A%A0%E5%AF%86.css?ref=master",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"
+    }]}
